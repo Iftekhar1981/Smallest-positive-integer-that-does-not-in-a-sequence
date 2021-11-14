@@ -23,7 +23,7 @@ def solution(A):
     return smallest
 
 
-# A = [1, 3, 6, 4, 1, 2]
-A = [-11, -3, 0]
+A = [1, 3,2,6, 4,3, 1, 2,7,9]
+
 
 print(solution(A))
